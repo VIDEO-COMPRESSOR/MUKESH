@@ -14,10 +14,10 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # variables
 API_ID = 7498895
 API_HASH = "5204d72f395c291b7257df9631a659ee"
-BOT_TOKEN = "5483606285:AAFnhGmxdlR-kGp6tm8zo9zsyFmQ7dOoVQk"
+BOT_TOKEN = "5957838560:AAFBVumQNPVDvAtGt6xPr6lVFnbfV5hZ-wI"
 SESSION = "BQAOzPBvBI95y0q-BUam1l_i88rLcGiqAyiyUMyp7cXE9IcBlM4vysguJSXYHV7iPSJVfebmA3bcz_8f9azL9hgSXbqFb6GlepGTI3eZom8tkLzekfto7mB9DOFewi9QplyqFEhgqysoGhSkngw2-qAuyoj5ZOhdPV651NcP9839akAXuibSDpYZzLkZaIuAYzE464yJEAhMQFByNb_epcfdu_9Mx5P7HEh-IIfLhYKOAoB5xYyggjTsXg8cdFb4L6YbhAF0QVmM-Qdrtxf4wHnFr2LvTWlNcaddVX1HCIcKL4Yd7u49639K5DvVaggBY29JgYAi1ZnhdXb2RhfIsgPUYOwEmQA"
-FORCESUB = "PREMIUM_USERS_KB"
-AUTH = 5429507511
+FORCESUB = "KASHIR_BOTS_PREMIUM"
+AUTH = 1626080409
 
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
